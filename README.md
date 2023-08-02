@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# [![My Skills](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+My neovim configs based on starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
